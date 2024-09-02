@@ -9,7 +9,7 @@
 Robot peab külastama kõiki "ruute" labürindis enne labürindist välja sõitmist. Labürint koosneb plokkidest, mis on 30 cm küljepikkusega. 
 Peale kaardistamise lõppu ja peale labürindist välja sõitmist, peab robot kaardi välja trükkima tekstilisel kujul (näide allpool).
 
-## Localization
+## Lokaliseerimine
 
 Kaardistamise faasis peab robot külastama kõiki ruute ja koostama selle info alusel kaardi.
 
